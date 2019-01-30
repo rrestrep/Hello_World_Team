@@ -10,9 +10,9 @@ namespace Hello_World_Team
 
             //Group:Rafael Restrepo
 
-            //Group Member 2: 
+            //Group Mem 
 
-            //Group Member 3:
+            //Group Member 3: Carmelo Alvarez
         }
     }
 }
