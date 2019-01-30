@@ -10,7 +10,7 @@ namespace Hello_World_Team
 
             //Group:Rafael Restrepo
 
-            //Group Mem 
+            //Group Member 2: Mithra Sagar
 
             //Group Member 3: Carmelo Alvarez
         }
